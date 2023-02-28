@@ -9,7 +9,9 @@ API_KEY = "whatever-comes-from-openai"
 
 Then change topic to whatever you want in `test.py`
 
-```topic = "Mozart and his musical genius"```
+```
+topic = "Mozart and his musical genius"
+```
 
 
 Then run 
