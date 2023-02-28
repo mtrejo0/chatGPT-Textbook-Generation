@@ -22,7 +22,7 @@ def responseToList(res):
     return [s for s in lines if len(s) > 3 and not "table" in s.lower()]
 
 
-topic = "The rise of Mao Zedong"
+topic = "Mozart and his musical genius"
 count = 0
 chapter_count = 5
 subsections_count = 5
