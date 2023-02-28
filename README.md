@@ -1,18 +1,18 @@
 # chatGPT-Textbook-Generation
 
-Make a secret.py
+Make a `secret.py`
 
-"""
+```
 API_KEY = "whatever-comes-from-openai"
 
-"""
+```
 
 
-Then change topic to whatever you want in test.py
+Then change topic to whatever you want in `test.py`
 
-topic = "Mozart and his musical genius"
+`topic = "Mozart and his musical genius"`
 
 
 Then run 
 
-python3 test.py
+`python3 test.py`
